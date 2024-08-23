@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nkp-workshop:
+  - apiVersion: v2
+    appVersion: 0.1.1
+    created: "2024-08-23T23:07:30.88717315Z"
+    description: A Helm chart used for Kubernetes Workshop
+    digest: 34d2b562e4750faf87c1cd7ebadca9c5b9d642c839a2954cd5890f6408f71b72
+    name: nkp-workshop
+    type: application
+    urls:
+    - https://github.com/nerajchand/helm-charts/releases/download/nkp-workshop-0.1.1/nkp-workshop-0.1.1.tgz
+    version: 0.1.1
+generated: "2024-08-23T23:07:30.887179011Z"
