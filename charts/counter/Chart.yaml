@@ -1,0 +1,5 @@
+apiVersion: v2
+name: counter
+description: A simple Helm chart for troubleshooting in Kubernetes
+version: 0.1.0
+appVersion: "1.28"
