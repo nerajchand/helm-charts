@@ -3,6 +3,15 @@ entries:
   counter:
   - apiVersion: v2
     appVersion: "1.28"
+    created: "2024-08-29T04:47:35.684978575Z"
+    description: A simple Helm chart for troubleshooting in Kubernetes
+    digest: 81d38bb94f2a7630bd4e48523d2807d19bc047da0bf41f29c3d697c65de07f09
+    name: counter
+    urls:
+    - https://github.com/nerajchand/helm-charts/releases/download/counter-0.1.1/counter-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: "1.28"
     created: "2024-08-24T00:51:46.856332471Z"
     description: A simple Helm chart for troubleshooting in Kubernetes
     digest: f5694cbf51895315ff5dd85ade537f53bbd74865066d2e568d001c476d2dfbd4
@@ -21,4 +30,4 @@ entries:
     urls:
     - https://github.com/nerajchand/helm-charts/releases/download/nkp-workshop-0.1.1/nkp-workshop-0.1.1.tgz
     version: 0.1.1
-generated: "2024-08-24T00:51:46.856341798Z"
+generated: "2024-08-29T04:47:35.685020985Z"
